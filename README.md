@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Basel Mohamed Alam
-- 👀 I’m Working as DevOps
-- 🌱 I’m currently Programming with Python
-- 💞️ I’m looking to collaborate on Github
-- 📫 My Email >>> Baselmmm69@Gmail.com
-- Youtube Channel >>> https://www.youtube.com/channel/UCLA41eqcShwEU_OVL7EJ-ww
+👋 Hello! I'm Basel Mohamed Alam.
+
+🚀 DevOps Specialist
+With a deep passion for automating processes, optimizing infrastructure, and enhancing operational efficiency.
+
+💻 Current Focus
+I am expanding my expertise in Python programming, delving into advanced scripting, automation, and tool development.
+
+🤝 Collaboration Interests
+Eager to contribute to innovative projects on GitHub, particularly those that push the boundaries of DevOps, cloud computing, and software development.
+
+📫 Get in Touch
+Feel free to reach out via email at:
+Primary: baselmohamedalamelden@gmail.com
+Secondary: Baselmmm69@gmail.com
+
+📺 YouTube Channel
+Explore my content and tutorials on DevOps and programming:
+[Basel Mohamed Alam on YouTube](https://www.youtube.com/channel/UCLA41eqcShwEU_OVL7EJ-ww)
 
 <!---
 basel5001/basel5001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
