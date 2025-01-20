@@ -18,24 +18,39 @@ Secondary: Baselmmm69@gmail.com
 Explore my content and tutorials on DevOps and programming:
 [Basel Mohamed Alam on YouTube](https://www.youtube.com/channel/UCLA41eqcShwEU_OVL7EJ-ww)
 
-![image](https://github.com/user-attachments/assets/23b709a6-8070-4c34-ac9b-1600e5ac6113)
-Certificates and Internships:
+✨ Certificates and Internships:
 ● Certifications Profile - Credly Badges Profile - Upwork Portfolio
+
 ● AWS Solution Architect, OCI (Oracle Cloud Infra.) Associate Certified Oct 24
+
 ● KodeKloud (Lens-Kubernetes IDE, Jinja2) Sept 23
+
 ● AWS Educate (GS Cloud Ops, Networking, Cloud Partitioner) Aug 23
+
 ● DevSecOps Foundation(_VOIS) Jul 23
+
 ● EF Standard English Test (C1 Advanced) Nov 22
+
 ● RHCSA Certified Jun 22
+
 ● Maharatech ITI Platform (Network Security – System Admin) Mar 22
+
 ● Cisco Networking Academy course CCNA: Introduction to Networks Feb 22
+
 ● AWS Amazon (Web Services – DevOps - CLI) from El mentor (NBE Platform) Feb 21
+
 ● The Brand is You from El Mentor (NBE Platform) Jan 21
+
 ● Mastering Effective Communication Skills from El Mentor (NBE Platform) Jan 21
+
 ● Python Programming (Python for Everybody) from Coursera (5 Levels) Nov 20
+
 ● Computer Networks from ITI in (120 hrs.) Aug 19
+
 ● Skills in Digital Marketing from Google Aug 19
+
 ● Enterprise IT Fundamentals Ministry of Communication and Information Technology Sept 19
+
 ● Cloud Computing from IBM from ITI Asyut
 
 <h3 align="center">Languages:</h3>
