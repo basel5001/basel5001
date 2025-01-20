@@ -18,7 +18,8 @@ Secondary: Baselmmm69@gmail.com
 Explore my content and tutorials on DevOps and programming:
 [Basel Mohamed Alam on YouTube](https://www.youtube.com/channel/UCLA41eqcShwEU_OVL7EJ-ww)
 
-✨ Certificates and Internships:
+<h2 align="center">✨ Certificates and Internships:</h2>
+
 ● Certifications Profile - Credly Badges Profile - Upwork Portfolio
 
 ● AWS Solution Architect, OCI (Oracle Cloud Infra.) Associate Certified Oct 24
