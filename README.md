@@ -1,7 +1,7 @@
 👋 Hello! 
 I'm Basel Mohamed.
 
-🚀 DevOps Specialist
+🚀 Senior DevOps Engineer / Specialist
 With a deep passion for automating processes, optimizing infrastructure, and enhancing operational efficiency.
 
 💻 Current Focus
@@ -22,37 +22,21 @@ Explore my content and tutorials on DevOps and programming:
 <h2 align="center">✨ Certificates and Internships:</h2>
 
 ● Certifications Profile - Credly Badges Profile - Upwork Portfolio
-
 ● AWS Solution Architect, OCI (Oracle Cloud Infra.) Associate Certified Oct 24
-
 ● KodeKloud (Lens-Kubernetes IDE, Jinja2) Sept 23
-
 ● AWS Educate (GS Cloud Ops, Networking, Cloud Partitioner) Aug 23
-
 ● DevSecOps Foundation(_VOIS) Jul 23
-
 ● EF Standard English Test (C1 Advanced) Nov 22
-
 ● RHCSA Certified Jun 22
-
 ● Maharatech ITI Platform (Network Security – System Admin) Mar 22
-
 ● Cisco Networking Academy course CCNA: Introduction to Networks Feb 22
-
 ● AWS Amazon (Web Services – DevOps - CLI) from El mentor (NBE Platform) Feb 21
-
 ● The Brand is You from El Mentor (NBE Platform) Jan 21
-
 ● Mastering Effective Communication Skills from El Mentor (NBE Platform) Jan 21
-
 ● Python Programming (Python for Everybody) from Coursera (5 Levels) Nov 20
-
 ● Computer Networks from ITI in (120 hrs.) Aug 19
-
 ● Skills in Digital Marketing from Google Aug 19
-
 ● Enterprise IT Fundamentals Ministry of Communication and Information Technology Sept 19
-
 ● Cloud Computing from IBM from ITI Asyut
 
 <h3 align="center">Languages:</h3>
