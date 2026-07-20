@@ -90,3 +90,13 @@ Building reliable, secure, and automated cloud infrastructure at scale.
 [![Blog](https://img.shields.io/badge/Blog-basel5001.github.io-blue?style=flat-square&logo=github)](https://basel5001.github.io/)
 [![YouTube](https://img.shields.io/badge/YouTube-Basel_Mohamed-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCLA41eqcShwEU_OVL7EJ-ww)
 [![Email](https://img.shields.io/badge/Email-baselmohamedalamelden-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:baselmohamedalamelden@gmail.com)
+
+## Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
