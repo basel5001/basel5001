@@ -1,6 +1,6 @@
 # Hi, I'm Basel Mohamed
 
-**Senior DevOps Engineer @ REDACTED_EMPLOYER | Platform Engineering | Cloud Architecture**
+**Senior DevOps Engineer | Platform Engineering | Cloud Architecture**
 
 Building reliable, secure, and automated cloud infrastructure at scale.
 
